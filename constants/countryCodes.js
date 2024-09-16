@@ -1004,7 +1004,39 @@ export const countryCodes = [
       en: "Dominican Republic"
     },
     code: "DO",
-    dial_code: "+1809,1829,1849",
+    dial_code: "+1809",
+    continent: "North America",
+    capital: "Santo Domingo",
+    currency: [
+      "DOP"
+    ],
+    languages: [
+      "es"
+    ],
+    flag: "🇩🇴"
+  },
+  {
+    name: {
+      en: "Dominican Republic"
+    },
+    code: "DO",
+    dial_code: "+1829",
+    continent: "North America",
+    capital: "Santo Domingo",
+    currency: [
+      "DOP"
+    ],
+    languages: [
+      "es"
+    ],
+    flag: "🇩🇴"
+  },
+  {
+    name: {
+      en: "Dominican Republic"
+    },
+    code: "DO",
+    dial_code: "+1849",
     continent: "North America",
     capital: "Santo Domingo",
     currency: [
@@ -2995,7 +3027,24 @@ export const countryCodes = [
       en: "Puerto Rico"
     },
     code: "PR",
-    dial_code: "+1787,1939",
+    dial_code: "+1787",
+    continent: "North America",
+    capital: "San Juan",
+    currency: [
+      "USD"
+    ],
+    languages: [
+      "es",
+      "en"
+    ],
+    flag: "🇵🇷"
+  },
+  {
+    name: {
+      en: "Puerto Rico"
+    },
+    code: "PR",
+    dial_code: "+1939",
     continent: "North America",
     capital: "San Juan",
     currency: [
@@ -4030,7 +4079,58 @@ export const countryCodes = [
       en: "Kosovo"
     },
     code: "XK",
-    dial_code: "+377,381,383,386",
+    dial_code: "+377",
+    continent: "Europe",
+    capital: "Pristina",
+    currency: [
+      "EUR"
+    ],
+    languages: [
+      "sq",
+      "sr"
+    ],
+    flag: "🇽🇰"
+  },
+  {
+    name: {
+      en: "Kosovo"
+    },
+    code: "XK",
+    dial_code: "+381",
+    continent: "Europe",
+    capital: "Pristina",
+    currency: [
+      "EUR"
+    ],
+    languages: [
+      "sq",
+      "sr"
+    ],
+    flag: "🇽🇰"
+  },
+  {
+    name: {
+      en: "Kosovo"
+    },
+    code: "XK",
+    dial_code: "+383",
+    continent: "Europe",
+    capital: "Pristina",
+    currency: [
+      "EUR"
+    ],
+    languages: [
+      "sq",
+      "sr"
+    ],
+    flag: "🇽🇰"
+  },
+  {
+    name: {
+      en: "Kosovo"
+    },
+    code: "XK",
+    dial_code: "+386",
     continent: "Europe",
     capital: "Pristina",
     currency: [

@@ -1,6 +1,6 @@
 {
   "name": "@chainplatform/country",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "@chainplatform/country support react-native and react-native-web",
   "main": "index.js",
   "devDependencies": {
